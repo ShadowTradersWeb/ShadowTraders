@@ -62,7 +62,7 @@ const Footer = () => {
                 className="flex items-center gap-2 text-muted-foreground hover:text-secondary transition-colors font-body"
               >
                 <Mail size={18} className="text-secondary" />
-                contact@shadowtraders.com
+                online.shadowtraders@gmail.com
               </a>
             </div>
 
