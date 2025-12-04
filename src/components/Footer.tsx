@@ -58,7 +58,7 @@ const Footer = () => {
                 +91 90809 01370
               </a>
               <a
-                href="mailto:contact@shadowtraders.com"
+                href="mailto:online.shadowtraders@gmail.com"
                 className="flex items-center gap-2 text-muted-foreground hover:text-secondary transition-colors font-body"
               >
                 <Mail size={18} className="text-secondary" />
