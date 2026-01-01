@@ -51,11 +51,11 @@ const Footer = () => {
             </h4>
             <div className="flex flex-col gap-3">
               <a
-                href="tel:+919080901370"
+                href="tel:+91882580752"
                 className="flex items-center gap-2 text-muted-foreground hover:text-secondary transition-colors font-body"
               >
                 <Phone size={18} className="text-secondary" />
-                +91 90809 01370
+                +91 88259 80752
               </a>
               <a
                 href="mailto:online.shadowtraders@gmail.com"
