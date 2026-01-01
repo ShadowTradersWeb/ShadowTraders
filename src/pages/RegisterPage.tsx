@@ -183,10 +183,10 @@ const RegisterPage = () => {
               <p className="text-center mt-6 text-muted-foreground font-body text-sm">
                 Need help? Contact us at{" "}
                 <a
-                  href="tel:+919080901370"
+                  href="tel:+918825980752"
                   className="text-secondary hover:underline"
                 >
-                  +91 90809 01370
+                  +91 88259 80752
                 </a>
               </p>
             </form>
