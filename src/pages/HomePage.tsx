@@ -39,10 +39,10 @@ const HeroSection = () => {
                 JOIN NOW @ ₹15,000
               </Button>
             </Link>
-            <a href="tel:+919080901370">
+            <a href="tel:+918825980752">
               <Button variant="outline" size="xl">
                 <Phone size={20} />
-                +91 90809 01370
+                +91 88259 80752
               </Button>
             </a>
           </div>
